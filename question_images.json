@@ -1,0 +1,112 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Which word has the \"f\" sound at the end?  ",
+    
+    "optionsImages": [
+      "./images/1.jpg",
+      "./images/2.jpg",
+      "./images/3.jpg",
+      "./images/4.jpg"
+    ],
+    "correct": 2,
+    "optionsAudio": [
+      "./sound/fall.mp3",
+      "./sound/dolphin.mp3",
+      "./sound/leaf.mp3",
+      "./sound/friends.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q2.",
+    "question": " Which word starts with the \"f\" sound?  ",
+    
+    "optionsImages": [
+      "./images/5.jpg",
+      "./images/6.jpg",
+      "./images/7.jpg",
+      "./images/8.jpg"
+    ],
+    "correct": 0,
+    "optionsAudio": [
+      "./sound/phone.mp3",
+      "./sound/leaf.mp3",
+      "./sound/cheif.mp3",
+      "./sound/roof.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q3.",
+    "question": " Which word has a double \"f\"? ",
+    
+    "optionsImages": [
+      "./images/9.jpg",
+      "./images/10.jpg",
+      "./images/11.jpg",
+      "./images/12.jpg"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "./sound/fish.mp3",
+      "./sound/fifthteen.mp3",
+      "./sound/photo.mp3",
+      "./sound/frog.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Which word has the \"ph\" sound?  ",
+    
+    "optionsImages": [
+      "./images/13.jpg",
+      "./images/14.jpg",
+      "./images/15.jpg",
+      "./images/16.jpg"
+    ],
+    "correct": 2,
+    "optionsAudio": [
+      "./sound/fish.mp3",
+      "./sound/fog.mp3",
+      "./sound/dolphin.mp3",
+      "./sound/frog.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Which word starts with \"ph\"? ",
+    
+    "optionsImages": [
+      "./images/16.jpg",
+      "./images/11.jpg",
+      "./images/13.jpg",
+      "./images/17.jpg"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "./sound/frog.mp3",
+      "./sound/photo.mp3",
+      "./sound/fish.mp3",
+      "./sound/fox.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Which animal name has the \"f\" sound?",
+    
+    "optionsImages": [
+      "./images/18.jpg",
+      "./images/19.jpg",
+      "./images/16.jpg",
+      "./images/20.jpg"
+    ],
+    "correct": 2,
+    "optionsAudio": [
+      "./sound/cat.mp3",
+      "./sound/dog.mp3",
+      "./sound/frog.mp3",
+      "./sound/pig.mp3"
+    ]
+  }
+      
+  ]
+  

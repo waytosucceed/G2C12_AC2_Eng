@@ -1,0 +1,336 @@
+[
+    {
+      "questionNo": "Q1.",
+      "question": "Which letter makes the same sound as \"f\" at the beginning of words?",
+      "Q_sound":"",
+      "options": [
+        {
+          "text": "p",
+          "audio": ""
+        },
+        {
+          "text": "t",
+          "audio": ""
+        },
+        {
+          "text": "ph",
+          "audio": ""
+        }
+        ,
+        {
+          "text": "s",
+          "audio": ""
+        }
+      ],
+      "correct": 2
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Guess the missing letter:_light",
+        "Q_sound":"./sound/flight.mp3",
+        "options": [
+          {
+            "text": "F",
+            "audio": ""
+          },
+          {
+            "text": "Ph",
+            "audio": ""
+          },
+          {
+            "text": "Ff",
+            "audio": ""
+          }
+        ],
+        "correct": 0
+      },
+      {
+        "questionNo": "Q3. ",
+        "question": "What sound does \"ph\" make?",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "🔉",
+            "audio": "./sound/p.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/h.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/f.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/th.mp3"
+          }
+        ],
+        "correct": 2
+      },
+      {
+        "questionNo": "Q4.",
+        "question": "In the word \"puff\", where do you hear the \"f\" sound?",
+        "Q_sound":"./sound/puff.mp3",
+        "options": [
+          {
+            "text": "Beginning",
+            "audio": ""
+          },
+          {
+            "text": "Middle",
+            "audio": ""
+          },
+          {
+            "text": "End",
+            "audio": ""
+          },
+          {
+            "text": "Nowhere",
+            "audio": ""
+          }
+        ],
+        "correct": 2
+      },{
+        "questionNo": "Q5.",
+        "question": "Which word rhymes with \"puff\"?",
+        "Q_sound":"./sound/puff.mp3",
+        "options": [
+          {
+            "text": "Roof",
+            "audio": ""
+          },
+          {
+            "text": "Laugh",
+            "audio": ""
+          },
+          {
+            "text": "stuff",
+            "audio": ""
+          },
+          {
+            "text": "Calf",
+            "audio": ""
+          }
+        ],
+        "correct": 2
+      },
+      
+      {
+        "questionNo": "Q6.",
+        "question": "What letter comes before the sound of \"f\" in the word “alphabet”?",
+        "Q_sound":"./sound/alphabet.mp3",
+        "options": [
+          {
+            "text": "L",
+            "audio": ""
+          },
+          {
+            "text": "E",
+            "audio": ""
+          },
+          {
+            "text": "B",
+            "audio": ""
+          },
+          {
+            "text": "H",
+            "audio": ""
+          }
+        ],
+        "correct": 0
+      },
+      {
+        "questionNo": "Q7.",
+        "question": " Hear the word and choose the correct spelling:  <img src='./images/flower.jpg' alt='goldFish' width='80px' height='60px'>.",
+        "Q_sound":"./sound/flower.mp3",
+        "options": [
+          {
+            "text": "Flour",
+            "audio": ""
+          },
+          {
+            "text": "Flaar",
+            "audio": ""
+          },
+          {
+            "text": "Floor",
+            "audio": ""
+          },
+          {
+            "text": "Flower",
+            "audio": ""
+          }
+        ],
+        "correct": 3
+      },
+      {
+        "questionNo": "Q8.",
+        "question": "What's the first letter you hear in: <img src='./images/17.jpg' alt='goldFish' width='80px' height='60px'>",
+        "Q_sound":"./sound/fox.mp3",
+        "options": [
+          {
+            "text": "\"o\"",
+            "audio": ""
+          },
+          {
+            "text": "\"f\"",
+            "audio": ""
+          },
+          {
+            "text": "\"x\"",
+            "audio": ""
+          },
+          {
+            "text": "\"s\"",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q9.",
+        "question": "Hear the word and choose the correct spelling:<img src='./images/floor.jpg' alt='goldFish' width='80px' height='60px'>",
+        "Q_sound":"./sound/floor.mp3",
+        "options": [
+          {
+            "text": "Flour",
+            "audio": ""
+          },
+          {
+            "text": "Flaar",
+            "audio": ""
+          },
+          {
+            "text": "Floor",
+            "audio": ""
+          },
+          {
+            "text": "Flower",
+            "audio": ""
+          }
+        ],
+        "correct": 2
+      },
+      {
+        "questionNo": "Q10.",
+        "question": "What's the last sound in: <img src='./images/giraffe.jpg' alt='goldFish' width='80px' height='60px'>",
+        "Q_sound":"./sound/giraffe.mp3",
+        "options": [
+          {
+            "text": "\"g\"",
+            "audio": ""
+          },
+          {
+            "text": "\"r\"",
+            "audio": ""
+          },
+          {
+            "text": "\"a\"",
+            "audio": ""
+          },
+          {
+            "text": "\"f\"",
+            "audio": ""
+          }
+        ],
+        "correct": 3
+      },
+      {
+        "questionNo": "Q11.",
+        "question": "Hera the word and guess spellings:<img src='./images/butterfly.jpg' alt='goldFish' width='80px' height='60px'>",
+        "Q_sound":"./sound/butterfly.mp3",
+        "options": [
+          {
+            "text": "Buterfly",
+            "audio": ""
+          },
+          {
+            "text": "Bufferfli",
+            "audio": ""
+          },
+          {
+            "text": "Buffrtly",
+            "audio": ""
+          },
+          {
+            "text": "Butterfly",
+            "audio": ""
+          }
+        ],
+        "correct": 3
+      },
+      {
+        "questionNo": "Q12.",
+        "question": "In the word \"elephant\", what makes the \"f\" sound?",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "el",
+            "audio": ""
+          },
+          {
+            "text": "le",
+            "audio": ""
+          },
+          {
+            "text": "ph",
+            "audio": ""
+          },
+          {
+            "text": "nt",
+            "audio": ""
+          }
+        ],
+        "correct": 2
+      },{
+        "questionNo": "Q13.",
+        "question": "Which word has a short vowel sound /uh/ before \"ff\"? ",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "Leaf ",
+            "audio": ""
+          },
+          {
+            "text": "Stuff ",
+            "audio": ""
+          },
+          {
+            "text": "Roof",
+            "audio": ""
+          },
+          {
+            "text": "Chief",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q14.",
+        "question": "Which word has \"f\" sound in the beginning?",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "Calf",
+            "audio": ""
+          },
+          {
+            "text": "Office",
+            "audio": ""
+          },
+          {
+            "text": "Flower",
+            "audio": ""
+          },
+          {
+            "text": "thief",
+            "audio": ""
+          }
+        ],
+        "correct": 2
+      }
+      
+  ]
+  
